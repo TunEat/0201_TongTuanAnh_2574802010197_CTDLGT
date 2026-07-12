@@ -4,7 +4,5 @@ def timkiem(a,x):
             return True #trả về True
     return False #trả về False
 
-
-
 a = [2,4,6,8]
 print(timkiem(a,2))    

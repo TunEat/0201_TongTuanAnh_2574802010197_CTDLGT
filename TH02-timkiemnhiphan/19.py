@@ -1,5 +1,4 @@
 def cows(x, c):
-
     s = 1
     e = x[len(x)-1] - x[0]
     ans = 0
