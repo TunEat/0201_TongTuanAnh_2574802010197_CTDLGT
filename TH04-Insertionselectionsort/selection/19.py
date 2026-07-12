@@ -11,4 +11,3 @@ def double_selection_sort(a):
         a[r], a[ma] = a[ma], a[r]
         l, r = l + 1, r - 1
     return a
-double_selection_sort(a)
